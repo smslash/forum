@@ -12,11 +12,9 @@ Forum with all optionals:
 
 * [smslash](https://github.com/smslash)
 
-## Run
+## Operate
 
-```
-go run . 
-```
+go run .
 
 ## Objectives
 
