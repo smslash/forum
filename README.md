@@ -1,4 +1,4 @@
-# Forum
+# Forum (Social App)
 
 Forum with all optionals:
 
